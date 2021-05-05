@@ -42,7 +42,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 Personas que contribuyeron al proyecto_
 
-* **Pedro Fuentes** - *Trabajo Inicial* - [villanuevand](https://github.com/Darpsoft). 
+* **Pedro Fuentes** - *Trabajo Inicial* - [Darpsoft](https://github.com/Darpsoft). 
 
 ## Licencia 📄
 
